@@ -10,7 +10,7 @@ The Dice Game project is a simple web-based game where two players take turns ro
 
 3. The total score for each player is displayed on the screen, and the player's turn alternates when a player wishes to switch or 1 comes up on dice.
 
-4. The game ends after any player who scores 100 points first, and the winner is declared based on the highest total score.
+4. The game ends after any player who scores 100 points first, and the winner is declared.
 ## Credits
 - Yashasvi Tripathi - Developer
 ## Contact
